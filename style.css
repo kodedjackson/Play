@@ -1,0 +1,11 @@
+form{
+    width: 450px;
+    height: 350px;
+    border-radius: 10px;
+    border: 10px;
+}
+
+#fname, #lname, #email, #comments{
+    border-radius: 10px;
+    border: 10px;
+}
