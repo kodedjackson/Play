@@ -1,11 +1,39 @@
-form{
-    width: 450px;
-    height: 350px;
-    border-radius: 10px;
-    border: 10px;
+body{
+    align-items: center;
+    display: block;
+    background-color: #111827;
+    color: #f8fafc;
+    padding: 50px;
 }
 
-#fname, #lname, #email, #comments{
-    border-radius: 10px;
-    border: 10px;
+#countLabel{
+    display: block;
+    font-size: 50px;
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    margin: 8px;
+    color: #f8fafc ;
+    background-color: #f97316;
+}
+
+input {
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+#label2{
+    padding: 20px;
+    margin: 5px;
+    font-size: 20px;
+    position: absolute;
+}
+
+#btnDiv{
+    align-items: center;
+    position: relative;
 }
